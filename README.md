@@ -19,7 +19,7 @@ Laravel Framework 8.80.0
 3. jika ingin mendapatkan akun admin, registrasi dengan email : admin@admin.com
 4. admin akan mendapatkan role menambah dan menghapus data driver dan kendaraan
 5. admin akan mendapatkan role membuat pesanan dengan menginput beberapa data yang sudah tersedia
-6. role user biasa hanya bisa melakukan proses menyetujui pesanan yang sudah dibuat user
+6. role user biasa hanya bisa melakukan proses menyetujui pesanan yang sudah dibuat user role admin
 7. persetujuan terjadi dua level(tingkat 1 dan tingkat 2)
 
-\*lebih lengkapnya bisa dilihat di youtube yang telah kami buat
+
