@@ -20,7 +20,7 @@ Laravel Framework 8.80.0
 4. admin akan mendapatkan role menambah dan menghapus data driver dan kendaraan
 5. admin akan mendapatkan role membuat pesanan dengan menginput beberapa data yang sudah tersedia
 6. role user biasa hanya bisa melakukan proses menyetujui pesanan yang sudah dibuat user role admin
-7. persetujuan terjadi dua level(tingkat 1 dan tingkat 2)
+7. persetujuan terjadi dua level (tingkat 1 dan tingkat 2)
 8. pada page persetujuan terdapat kesalahan penulisan pada tingkat 1 yang seharusnya tingkat 2
 
 
